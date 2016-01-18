@@ -1,2 +1,2 @@
 # FileDrop
-Repository for GitHub
+Repository for FileDrop Application
